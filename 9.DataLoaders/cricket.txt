@@ -1,0 +1,254 @@
+CRICKET: A SHORT GUIDE TO THE GAME
+
+INTRODUCTION
+
+Cricket is a bat-and-ball sport played between two teams. The basic objective is to score more runs than the opposing team. One team bats and attempts to score runs, while the other team bowls and fields in an attempt to restrict the scoring and dismiss the batters.
+
+International cricket is played primarily in three formats: Test cricket, One Day Internationals (ODIs), and Twenty20 Internationals (T20Is). Test matches traditionally span up to five days and contain two innings per team. ODIs generally consist of one innings of up to 50 overs per team, while T20Is consist of one innings of up to 20 overs per team.
+
+
+BASIC TERMINOLOGY
+
+A RUN is the basic unit of scoring in cricket. Batters can score runs by hitting the ball and running between the two wickets. Runs can also be awarded as extras.
+
+An OVER consists of six valid deliveries bowled by a bowler. After an over is completed, another bowler normally bowls from the opposite end of the pitch.
+
+A WICKET can refer both to the physical set of three stumps and two bails and to the dismissal of a batter.
+
+An INNINGS is a team's opportunity to bat. In Test cricket, each team normally has two innings. In ODIs and T20Is, each team normally has one innings.
+
+A BOUNDARY occurs when the ball reaches or crosses the boundary. A four is normally scored when the ball reaches the boundary after touching the ground, while a six is scored when the ball crosses the boundary without touching the ground within the field of play.
+
+A DOT BALL is a legal delivery from which the batting team scores no runs.
+
+
+BATTING
+
+The batting team's objective is to accumulate runs while protecting their wickets. Two batters are on the field at the same time. One batter faces the bowler while the other waits at the opposite end.
+
+A batter can score by running between the wickets, hitting boundaries, or benefiting from extras. A batter may also remain at the crease and attempt to build a long innings rather than attacking every delivery.
+
+Important batting statistics include runs scored, balls faced, batting average, strike rate, number of fours, number of sixes, and number of centuries.
+
+A CENTURY is scored when a batter reaches 100 runs in an innings. A HALF-CENTURY is scored when a batter reaches 50 runs.
+
+
+BOWLING
+
+The bowling team's objective is to dismiss the batters and restrict the number of runs scored.
+
+Common bowling styles include fast bowling, medium-fast bowling, swing bowling, seam bowling, and spin bowling.
+
+Fast bowlers attempt to use pace, bounce, movement, and variations in length to challenge the batter. Spin bowlers generally rely more heavily on changes in speed, trajectory, and the amount or direction of spin imparted to the ball.
+
+Common deliveries include the yorker, bouncer, slower ball, inswinger, outswinger, off-break, leg-break, googly, and doosra.
+
+A bowler's statistics commonly include overs bowled, runs conceded, wickets taken, economy rate, and bowling average.
+
+
+WAYS A BATTER CAN BE DISMISSED
+
+There are several ways in which a batter can be dismissed.
+
+BOWLED:
+A batter is bowled when a legal delivery hits the stumps and dislodges the bails.
+
+CAUGHT:
+A batter is caught when a fielder catches the ball before it touches the ground after the batter has made contact with it.
+
+LBW:
+Leg Before Wicket, commonly called LBW, can occur when the ball strikes the batter's person instead of the bat and satisfies the conditions specified in the Laws of Cricket.
+
+RUN OUT:
+A batter can be run out when the wicket is broken while that batter is out of their ground and the relevant conditions for a run out are satisfied.
+
+STUMPED:
+A wicketkeeper can stump a batter who leaves their ground and fails to return before the wicket is broken, provided the conditions for a stumping are satisfied.
+
+There are also other dismissal methods, including hit wicket and obstructing the field.
+
+
+EXTRAS
+
+Runs that are not credited to the batter are generally recorded as extras.
+
+COMMON EXTRAS INCLUDE:
+
+WIDE:
+A delivery that is judged too far from the batter to be playable within the applicable playing conditions can be called a wide. A wide adds a run to the batting team's total and the delivery does not count as one of the valid balls in the over.
+
+NO-BALL:
+A no-ball is called when the bowler violates certain conditions governing a legal delivery. A no-ball gives the batting team an extra run and the delivery generally does not count as one of the valid balls in the over.
+
+BYE:
+A bye is an extra run scored when the batter does not make contact with the ball and the batters successfully run.
+
+LEG-BYE:
+A leg-bye is scored when the ball touches the batter's body rather than the bat and the applicable conditions for a leg-bye are satisfied.
+
+
+FIELDING
+
+Fielders attempt to prevent runs and dismiss batters. Fielding positions can be changed according to the bowler, batter, match situation, pitch conditions, and captain's strategy.
+
+Some common fielding positions include slip, gully, point, cover, mid-off, mid-on, square leg, fine leg, and long-on.
+
+The wicketkeeper stands behind the stumps at the striker's end. The wicketkeeper's responsibilities include stopping deliveries, collecting edges, attempting stumpings, and assisting with run-outs.
+
+
+MATCH FORMATS
+
+TEST CRICKET
+
+Test cricket is the longest international format. A Test match is scheduled for up to five days and normally consists of two innings for each team.
+
+A Test match can involve long periods of defensive batting followed by aggressive scoring. Bowlers may use changes in pace, movement, spin, and field placement over many overs to create opportunities for wickets.
+
+Example scoreboard:
+
+INDIA - FIRST INNINGS
+Rohit Sharma       87
+Aarav Mehta       143
+Rahul Verma        52
+Vikram Singh       19
+Extras              14
+Total              415 all out
+
+AUSTRALIA - FIRST INNINGS
+Daniel Harris       91
+James Wilson       118
+Michael Clark       34
+Extras               9
+Total              372 all out
+
+
+ONE DAY INTERNATIONAL
+
+An ODI gives each team one innings of up to 50 overs.
+
+Teams must balance scoring quickly with preserving wickets. The match is divided into different phases, commonly described as the powerplay, middle overs, and death overs.
+
+Example ODI scoreboard:
+
+INDIA
+50 overs
+Total: 287/7
+
+Top scorers:
+Aarav Mehta       96
+Rahul Verma       61
+Vikram Singh      42
+
+Top bowlers:
+James Wilson      3/48
+Michael Clark     2/51
+
+
+TWENTY20 INTERNATIONAL
+
+A T20I gives each team one innings of up to 20 overs.
+
+T20 cricket places a strong emphasis on rapid scoring, aggressive batting, bowling variations, and efficient fielding.
+
+Example T20 scoreboard:
+
+INDIA
+20 overs
+Total: 184/6
+
+Aarav Mehta        71
+Rahul Verma        44
+Vikram Singh       29
+
+AUSTRALIA
+20 overs
+Total: 176/8
+
+Result:
+India won by 8 runs.
+
+
+CRICKET STRATEGY
+
+Batting strategy changes depending on the match format and situation.
+
+In Test cricket, a batter may prioritize leaving difficult deliveries, defending against movement, and building a partnership. In limited-overs cricket, batters generally need to maintain a higher scoring rate.
+
+Bowling strategy also depends on the match situation. A captain may use a fast bowler with a new ball to exploit swing and seam movement. Later in an innings, spin bowlers or slower-ball specialists may be used to control scoring.
+
+Field placement is closely connected to bowling strategy. For example, a captain may place several slip fielders when an edge is considered likely, while boundary fielders may be positioned during an attacking batting phase.
+
+
+IMPORTANT CRICKET STATISTICS
+
+BATTING STATISTICS
+
+Runs:
+The total number of runs scored by a batter.
+
+Batting Average:
+Generally calculated as total runs divided by the number of times the batter has been dismissed.
+
+Strike Rate:
+In limited-overs cricket, strike rate is commonly calculated as runs scored divided by balls faced, multiplied by 100.
+
+BOWLING STATISTICS
+
+Economy Rate:
+Runs conceded per over bowled.
+
+Bowling Average:
+Runs conceded divided by wickets taken.
+
+Strike Rate:
+Balls bowled divided by wickets taken.
+
+A bowler who takes five wickets in a single innings is said to have taken a five-wicket haul.
+
+
+SAMPLE MATCH SUMMARY
+
+MATCH:
+India vs Australia
+
+FORMAT:
+Twenty20 International
+
+VENUE:
+Greenfield Cricket Stadium
+
+TOSS:
+India won the toss and elected to bat.
+
+INDIA INNINGS:
+India scored 192 runs for the loss of 5 wickets in 20 overs.
+
+Aarav Mehta scored 78 runs from 47 balls.
+Rahul Verma scored 51 runs from 32 balls.
+Vikram Singh scored 31 runs from 18 balls.
+
+Australia's best bowler was James Wilson, who took 2 wickets for 34 runs.
+
+AUSTRALIA INNINGS:
+Australia scored 181 runs for the loss of 8 wickets in 20 overs.
+
+Daniel Harris scored 69 runs from 43 balls.
+Michael Clark scored 46 runs from 29 balls.
+
+India's best bowler was Arjun Patel, who took 3 wickets for 29 runs.
+
+RESULT:
+India won the match by 11 runs.
+
+PLAYER OF THE MATCH:
+Aarav Mehta
+
+REASON:
+Aarav Mehta scored 78 runs from 47 balls and helped India establish a competitive total.
+
+
+CONCLUSION
+
+Cricket combines batting, bowling, fielding, tactics, physical skill, and decision-making. The three major international formats create very different strategic environments. Test cricket emphasizes endurance and sustained performance, while ODI and T20 cricket place greater emphasis on scoring rate, limited resources, and tactical adaptation.
+
+A cricket match can therefore be represented as a large collection of structured events: deliveries, runs, wickets, overs, partnerships, bowling spells, innings, and match results. This makes cricket data useful for statistical analysis and natural-language processing experiments.
